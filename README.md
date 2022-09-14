@@ -1,4 +1,4 @@
-# PrivateProjectList
+# Private Project List
 List of private projects that I cannot share with publicly but will list for employer view:
 
 
