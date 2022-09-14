@@ -18,5 +18,5 @@ https://github.com/MarDiaz64/QML-For-Brain-Tumor-Detection/ - Fall 2022-Spring 2
 Usage of quantum convolutional (quanvolutional) neural networks, and other Quantum Machine learning/image 
 processing techniques towards the application of Brain Tumor Detection.
 
-
+Will be implemented in python (PennyLane)
 
