@@ -10,9 +10,7 @@ implemented in Java & CSS
 https://github.com/MarDiaz64/AI-Engineering-Legend-Extraction -Fall 2022-Spring 2023 (Senior Capstone)
 
 Honeywell - AI Automated Legend Extraction and Identification in Engineering Drawings.
-Project Description: There are many legends present in engineering drawings. They are standardized and have very specific connotation. 
-Opensource engineering diagrams to be targeted (participants are free to choose the dataset). Aim of the project is to localize and identify 
-different legends using AI/ML techniques.
+Aim of the project is to localize and identify different legends using AI/ML techniques, particularly targeting Open source engineering diagrams.
 
 
 https://github.com/MarDiaz64/QML-For-Brain-Tumor-Detection/ - Fall 2022-Spring 2023 (Barrett Honors Thesis)
