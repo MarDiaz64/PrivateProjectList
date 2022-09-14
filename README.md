@@ -22,8 +22,8 @@ implemented in Java & CSS
 
 https://github.com/MarDiaz64/Procedural-Island-Generator - Summer 2021
 
-Procedural Island Generator using the Partical roll algorithm  (command line application in c++)
+Procedural Island Generator using the Partical roll algorithm  (command line application in C/C++)
 
 https://github.com/MarDiaz64/LinkedList-Zombie-Conga-Party - Summer 2021
-Implement an LinkedList in CPP and apply it to a Zombie conga party program (randomly generate zombie objects and apply a random number of random actions until the "conga line" is empty or the rounds are over)
+Implement an LinkedList in C/C++ and apply it to a Zombie conga party program (randomly generate zombie objects and apply a random number of random actions until the "conga line" is empty or the rounds are over)
 
